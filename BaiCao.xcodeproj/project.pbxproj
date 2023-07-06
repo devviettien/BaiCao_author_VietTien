@@ -11,6 +11,7 @@
 		6616A0A02A56ABCB009EE37B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6616A09F2A56ABCB009EE37B /* ContentView.swift */; };
 		6616A0A22A56ABCC009EE37B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6616A0A12A56ABCC009EE37B /* Assets.xcassets */; };
 		6616A0A62A56ABCC009EE37B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6616A0A52A56ABCC009EE37B /* Preview Assets.xcassets */; };
+		6616A0AF2A56BBB3009EE37B /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 6616A0AE2A56BBB3009EE37B /* Contents.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		6616A0A12A56ABCC009EE37B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6616A0A32A56ABCC009EE37B /* BaiCao.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BaiCao.entitlements; sourceTree = "<group>"; };
 		6616A0A52A56ABCC009EE37B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6616A0AE2A56BBB3009EE37B /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				6616A09D2A56ABCB009EE37B /* BaiCaoApp.swift */,
 				6616A09F2A56ABCB009EE37B /* ContentView.swift */,
 				6616A0A12A56ABCC009EE37B /* Assets.xcassets */,
+				6616A0AE2A56BBB3009EE37B /* Contents.json */,
 				6616A0A32A56ABCC009EE37B /* BaiCao.entitlements */,
 				6616A0A42A56ABCC009EE37B /* Preview Content */,
 			);
@@ -129,6 +132,7 @@
 			files = (
 				6616A0A62A56ABCC009EE37B /* Preview Assets.xcassets in Resources */,
 				6616A0A22A56ABCC009EE37B /* Assets.xcassets in Resources */,
+				6616A0AF2A56BBB3009EE37B /* Contents.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
